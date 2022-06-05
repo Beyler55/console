@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Console_App\Console_App\bin\Debug\net5.0\Console_App.exe
+C:\Users\user\source\repos\Console_App\Console_App\bin\Debug\net5.0\Console_App.deps.json
+C:\Users\user\source\repos\Console_App\Console_App\bin\Debug\net5.0\Console_App.runtimeconfig.json
+C:\Users\user\source\repos\Console_App\Console_App\bin\Debug\net5.0\Console_App.runtimeconfig.dev.json
+C:\Users\user\source\repos\Console_App\Console_App\bin\Debug\net5.0\Console_App.dll
+C:\Users\user\source\repos\Console_App\Console_App\bin\Debug\net5.0\ref\Console_App.dll
+C:\Users\user\source\repos\Console_App\Console_App\bin\Debug\net5.0\Console_App.pdb
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.AssemblyInfo.cs
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.dll
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\ref\Console_App.dll
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.pdb
+C:\Users\user\source\repos\Console_App\Console_App\obj\Debug\net5.0\Console_App.genruntimeconfig.cache
